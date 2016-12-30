@@ -1,4 +1,4 @@
-
+/*
 var google;
 
 function init() {
@@ -46,4 +46,4 @@ function init() {
     }
     
 }
-google.maps.event.addDomListener(window, 'load', init);
+google.maps.event.addDomListener(window, 'load', init);*/
