@@ -1412,14 +1412,3 @@ h1, h2, h3, h4, h5, h6 {
 .fh5co-text p{
   max-height: 72px;
 }
-
-
-.row {
-    display: table;
-}
-
-[class*="col-"] {
-    float: none;
-    display: table-cell;
-    vertical-align: top;
-}
