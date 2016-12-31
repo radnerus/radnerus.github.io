@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Radnerus Suren</title>
-    <link>https://radnerus.github.io/post/index.xml</link>
+    <link>localhost:1313</link>
     <description>Recent content in Posts on Radnerus Suren</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Dec 2016 21:12:06 +0530</lastBuildDate>
-    <atom:link href="https://radnerus.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2016 01:43:28 +0530</lastBuildDate>
+    <atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>index</title>
-      <link>https://radnerus.github.io/post/</link>
-      <pubDate>Thu, 29 Dec 2016 21:12:06 +0530</pubDate>
+      <title>test</title>
+      <link>localhost:1313</link>
+      <pubDate>Sat, 31 Dec 2016 01:43:28 +0530</pubDate>
       
-      <guid>https://radnerus.github.io/post/</guid>
-      <description>&lt;p&gt;Testing&lt;/p&gt;
+      <guid>localhost:1313</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;
 </description>
     </item>
     
